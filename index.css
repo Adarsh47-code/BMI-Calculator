@@ -1,0 +1,11 @@
+.calculate{
+    margin: 25px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+.calculate:hover{
+    background-color: rgb(58, 57, 57);
+    cursor: pointer;
+
+}
